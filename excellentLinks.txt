@@ -1,0 +1,12 @@
+OpenCL beginners:
+https://www.fixstars.com/en/opencl/book/
+
+Linear Algebra Excellent lecture:
+https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/
+
+
+Digital Image Processing:
+
+
+
+Some good links:
